@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SumatifRoom_AurelliaJasmine_Genap" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#8DAA7F</item>
+        <item name="colorPrimaryVariant">#8DAA7F</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#93AE86</item>
+        <item name="colorSecondaryVariant">#93AE86</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#B7CDAD</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
